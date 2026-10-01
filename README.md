@@ -14,8 +14,6 @@
   </div>
 </div>
 
-Backends, databases, AI logic, interfaces, and deployment. 2+ years at Arnold AI (Austria, remote), plus my own projects: [ReCore](https://github.com/Amboyandrey/ReCore), [ReScope](https://github.com/Amboyandrey/ReScope), [ReRoute](https://github.com/Amboyandrey/ReRoute), and [ReLook](https://github.com/Amboyandrey/ReLook).
-
 ---
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools</h3>
